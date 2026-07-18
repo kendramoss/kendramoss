@@ -1,5 +1,3 @@
-![banner](https://raw.githubusercontent.com/kendramoss/kendramoss/main/assets/banner.png)
-
 ## Hi there
 I'm Kendra, I like building stuff.
 - Open to joining more projects
