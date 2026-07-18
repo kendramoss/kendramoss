@@ -24,5 +24,4 @@ debian,
 arduino,
 blender,
 figma,
-notion
-)](https://skillicons.dev)
+notion)](https://skillicons.dev)
