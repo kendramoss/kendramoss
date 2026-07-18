@@ -6,8 +6,10 @@ I'm Kendra, I like building stuff.
 ## Projects
 | Project | Link | Description |
 | ------- | ---- | ----------- |
-| [snowflake-iwaa](https://github.com/kendramoss/snowflake-iwaa) | [Repo](https://github.com/kendramoss/snowflake-iwaa) | Intelligent Workflow Automation Agent |
-| [faultline](https://github.com/Mizore66/faultline) | [Repo](https://github.com/Mizore66/faultline) | Contributor |
+| [snowflake-iwaa](https://github.com/kendramoss/snowflake-iwaa) | [Repo](https://github.com/kendramoss/snowflake-iwaa) | Snowflake agent for cold-chain stability decisions
+| [robotArm](https://github.com/kendramoss/robotArm_inverseKinematic) | [Repo](https://github.com/kendramoss/robotArm_inverseKinematic) | 6-DOF arm with inverse kinematics, HuskyLens & Favoriot |
+| [mecanum](https://github.com/kendramoss/mecanumv2_states) | [Repo](https://github.com/kendramoss/mecanumv2_states) | Mecanum base control with state machine & IoT gateway |
+| [faultline](https://github.com/Mizore66/faultline) | [Repo](https://github.com/Mizore66/faultline) | Evidence-first replay for agent-assisted regressions |
 
 ## Technologies I Use
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
