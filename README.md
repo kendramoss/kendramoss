@@ -6,7 +6,7 @@ I'm Kendra, I like building stuff.
 ## Projects
 | Project | Link | Description |
 | ------- | ---- | ----------- |
-| [wassup-hackathon-2026](https://github.com/kendramoss/wassup-hackathon-2026) | [Repo](https://github.com/kendramoss/wassup-hackathon-2026) | Origin Proof: predicts CBP country of origin from past rulings & plans production moves |
+| [wassup-hackathon-2026](https://github.com/kendramoss/wassup-hackathon-2026) | [Repo](https://github.com/kendramoss/wassup-hackathon-2026) | Unde Labs: predicts CBP country of origin from past rulings & plans production moves |
 | [robotArm](https://github.com/kendramoss/robotArm_inverseKinematic) | [Repo](https://github.com/kendramoss/robotArm_inverseKinematic) | 6-DOF arm with inverse kinematics, HuskyLens & Favoriot |
 | [mecanum](https://github.com/kendramoss/mecanumv2_states) | [Repo](https://github.com/kendramoss/mecanumv2_states) | Mecanum base control with state machine & IoT gateway |
 | [faultline](https://github.com/Mizore66/faultline) | [Repo](https://github.com/Mizore66/faultline) | Evidence-first replay for agent-assisted regressions |
