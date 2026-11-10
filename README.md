@@ -7,6 +7,7 @@ I'm Kendra, I like building stuff.
 | Project | Link | Description |
 | ------- | ---- | ----------- |
 | [wassup-hackathon-2026](https://github.com/kendramoss/wassup-hackathon-2026) | [Repo](https://github.com/kendramoss/wassup-hackathon-2026) | Unde Labs: predicts CBP country of origin from past rulings & plans production moves |
+| [exsi-lexsi-hackathon](https://github.com/kendramoss/exsi-lexsi-hackathon) | [Repo](https://github.com/kendramoss/exsi-lexsi-hackathon) | EvidenceTune: teaches Tiny Aya to update, retain or clarify on corrections based on evidence |
 | [robotArm](https://github.com/kendramoss/robotArm_inverseKinematic) | [Repo](https://github.com/kendramoss/robotArm_inverseKinematic) | 6-DOF arm with inverse kinematics, HuskyLens & Favoriot |
 | [mecanum](https://github.com/kendramoss/mecanumv2_states) | [Repo](https://github.com/kendramoss/mecanumv2_states) | Mecanum base control with state machine & IoT gateway |
 | [faultline](https://github.com/Mizore66/faultline) | [Repo](https://github.com/Mizore66/faultline) | Evidence-first replay for agent-assisted regressions |
